@@ -9,8 +9,6 @@ mainnet:
       - ip4zpbps7unk6xhlanqtw24f75akfbl3upeckfjqjks7ftfnk4i73oid.onion:18081
     cakewallet:
       - cakexmrl7bonq7ovjka5kuwuyd3f7qnkz6z6s6dmsy3uckwra7bvggyd.onion:18081
-    lza_menace:
-      - qz43zul2x56jexzoqgkx2trzwcfnr6l3hbtfcfx54g4r3eahy3bssjyd.onion:18089
     plowsof:
       - plowsof3t5hogddwabaeiyrno25efmzfxyro2vligremt7sxpsclfaid.onion:18089
       - plowsoffjexmxalw73tkjmf422gq6575fc7vicuu4javzn2ynnte6tyd.onion:18089
@@ -49,8 +47,6 @@ mainnet:
       - node2-eu.monero.love:18089
     cakewallet:
       - xmr-node.cakewallet.com:18081
-    lza_menace:
-      - singapore.node.xmr.pm:18089
     plowsof:
       - node.monerodevs.org:18089
       - node2.monerodevs.org:18089
@@ -79,8 +75,6 @@ testnet:
       - plowsoffjexmxalw73tkjmf422gq6575fc7vicuu4javzn2ynnte6tyd.onion:28089
   i2p:
   clearnet:
-    lza_menace:
-      - singapore.node.xmr.pm:28081
     sethforprivacy:
       - node.sethforprivacy.com:28089
       - node2.sethforprivacy.com:28089
@@ -96,8 +90,6 @@ stagenet:
   clearnet:
     boldsuck:
       - xmr-lux.boldsuck.org:38081
-    lza_menace:
-      - singapore.node.xmr.pm:38081
     sethforprivacy:
       - node.sethforprivacy.com:38089
       - node2.sethforprivacy.com:38089
